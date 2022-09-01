@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyProjectAgro</string>
+    <string name="channel_name">WeatherChannel</string>
+    <string name="channel_description">Used to deliver weather info</string>
+    <string name="email_address">Email Address</string>
+    <string name="Dots">...</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="submit">SUBMIT</string>
+    <string name="crops">Crops</string>
+    <string name="enter_crops_type">Enter crops type</string>
+    <string name="field_size">Field Size(square meters)</string>
+    <string name="enter_field_size_in_square_meters">Enter field size in square meters</string>
+    <string name="enter_latitude">Enter Latitude</string>
+    <string name="enter_longitude">Enter longitude</string>
+    <string name="field_location">Field Location</string>
+    <string name="clear_all">Clear all</string>
+    <string name="see_crops">See Crops</string>
+    <string name="number_of_crops_to_get_weather">Number of crops to get weather</string>
+    <string name="enter_number_of_crops">Enter number of crops</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="insert_crops">Insert Crops</string>
+    <string name="change_settings">Change Settings</string>
+    <string name="logout">Logout</string>
+    <string name="get_weather">Get Weather</string>
+</resources>

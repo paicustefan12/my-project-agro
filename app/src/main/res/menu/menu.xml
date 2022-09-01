@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="80dp"
+    android:layout_height="300dp"
+    tools:context=".BaseActivity"
+    android:orientation="vertical">
+
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/crops_view_btn"
+        android:layout_marginTop="5dp"
+        android:icon="@drawable/corn"
+        android:title="@string/see_crops"
+        app:showAsAction="always" />
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/insert_crop_btn"
+        android:layout_marginTop="5dp"
+        android:icon="@drawable/add"
+        android:background="@null"
+        android:contentDescription="@string/insert_crops"
+        android:title="@string/insert_crops"
+        app:showAsAction="always" />
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/settings_btn"
+        android:layout_marginTop="5dp"
+        android:icon="@drawable/settings"
+        android:background="@null"
+        android:contentDescription="@string/change_settings"
+        android:title="@string/change_settings"
+        app:showAsAction="always" />
+    <item
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/logout_btn"
+        android:layout_marginTop="5dp"
+        android:icon="@drawable/logout"
+        android:contentDescription="@string/logout"
+        android:title="@string/logout"
+        app:showAsAction="always" />
+</menu>
